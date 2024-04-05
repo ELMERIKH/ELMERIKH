@@ -1,4 +1,4 @@
-### am just a weakling 👋
+### m just a weakling 👋
 👌👌🐱‍👤 
 
 # Coding x SEC 🐱‍💻
