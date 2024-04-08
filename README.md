@@ -3,8 +3,6 @@
 
 # Coding x SEC 🐱‍💻
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMERIKH&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
-
 
 
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
