@@ -1,5 +1,8 @@
 ### m just a weakling 👋
 👌👌🐱‍👤 
+<script src="https://tryhackme.com/badge/1146691"></script>
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/72181445/287320772-b0721a8a-05f1-490d-875b-380c747fb6ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240504T231537Z&X-Amz-Expires=300&X-Amz-Signature=85cc81571736ac7984d76092dc528b685510d820f7f5abd2dd12e182276cfbad&X-Amz-SignedHeaders=host&actor_id=96123439&key_id=0&repo_id=397481977
 
 # Coding x SEC 🐱‍💻
 
