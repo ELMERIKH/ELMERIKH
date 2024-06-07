@@ -19,6 +19,7 @@
 **ELMERIKH/ELMERIKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![ken-kaneki]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -30,4 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/RtlDallas/RtlDallas/main/abcd.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ELMERIKH/ELMERIKH/assets/96123439/75d8cfd4-2701-43ca-8084-c48ed9f0ff26');]{x0000}$}
