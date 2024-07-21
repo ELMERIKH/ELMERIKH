@@ -5,7 +5,8 @@
 
 # Coding x SEC 🐱‍💻
 
- ![337817472-75d8cfd4-2701-43ca-8084-c48ed9f0ff26](https://github.com/user-attachments/assets/ecfadef9-a54b-4a71-8d18-ef367e22df99)
+![merikh](https://github.com/user-attachments/assets/02095d44-52b5-4134-96e4-9183eae462f4)
+
 
 ![grid-snake](https://user-images.githubusercontent.com/94220731/198875879-db8010bf-01c8-4f34-98c7-3dd8a0a6e734.svg)
 <div align="center">
