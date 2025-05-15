@@ -2,6 +2,7 @@
 👌👌🐱‍👤
 
 certs: CRTP , PNPT, CRTA
+
 to do : CRTE, CRTO, CRTL, BSCP
 # Coding x SEC 🐱‍💻
 
