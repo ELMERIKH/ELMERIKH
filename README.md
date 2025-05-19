@@ -3,7 +3,7 @@
 
 certs: CRTP , PNPT, CRTA , MCRTA
 
-to do : CRTE, CRTO, CRTL, BSCP
+to do : CRTE, CRTO, CRTL, BSCP , CEPT
 # Coding x SEC 🐱‍💻
 
 ![merikh](https://github.com/user-attachments/assets/02095d44-52b5-4134-96e4-9183eae462f4)
